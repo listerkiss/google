@@ -1,0 +1,82 @@
+body {
+    background-color: white;
+}
+
+main {
+    margin-top: 150px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    margin: 15px;
+}
+
+h3 {
+    margin-left: 20px;
+}
+
+nav {
+    text-align: right;
+}
+
+.logo-acceuil {
+    width: 272px;
+    height: 92px;
+}
+
+.search {
+    width: 582px;
+    height: 44px;
+    border-radius: 30px;
+}
+
+.button {
+    width: 200px;
+    height: 36px;
+    border-radius: 10px;
+}
+
+.text-button {
+    font-weight: bold;
+    font-size: 14px;
+}
+
+li {
+    display: inline;
+}
+
+.profil {
+    width : 30px; height : 30px;
+    border: none;
+    -moz-border-radius : 75px;
+    -webkit-border-radius : 75px;
+    border-radius : 75px;
+    vertical-align: middle;
+}
+
+.developement {
+    text-align: center;
+}
+
+.fgreen {
+    margin-left: 10px;
+}
+
+footer {
+    position: absolute;
+    width: 100%; 
+    bottom: 0; left: 0; right: 0;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 15px;
+}
+
+footer .footerr {
+    float: right;
+}
+
+footer .footerl {
+    float: left;
+}
