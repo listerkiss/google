@@ -4,7 +4,7 @@
 
 # My portfolio
 
-Petit site en HTML/CSS pour parfaire mes faible connaissance avec ces languages.
+Reproduction du site Google.fr pour m'entrainer au HTML/CSS
 
 ## 🛠 Skills Use
 HTML, CSS
